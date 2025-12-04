@@ -4,7 +4,7 @@ Run the powerful **Ministral-3-8B-Reasoning** model with vision capabilities loc
 
 This project demonstrates how to use the **Unsloth 4-bit quantized** version of the model with a modern **Gradio** frontend for image analysis and reasoning.
 
-![Ministral Vision Demo](https://github.com/user-attachments/assets/placeholder-image.png)
+![Ministral Vision Demo](test_animal.png)
 *(Replace this link with your actual screenshot)*
 
 ## 🚀 Features

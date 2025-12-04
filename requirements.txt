@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+bitsandbytes
+gradio
+mistral_common[opencv]
+protobuf
+sentencepiece

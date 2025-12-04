@@ -1,4 +1,8 @@
-# 🧠 Ministral 3-8B Vision (Local & Quantized)
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/133149615?s=200&v=4" height="100" alt="Mistral AI Logo">
+  <img src="https://avatars.githubusercontent.com/u/150920049?s=200&v=4" height="100" alt="Unsloth Logo">
+  <h1>Ministral 3-8B Vision (Local & Quantized)</h1>
+</div>
 
 Run the powerful **Ministral-3-8B-Reasoning** model with vision capabilities locally on consumer hardware (tested on **NVIDIA RTX 3060 Ti 8GB**).
 

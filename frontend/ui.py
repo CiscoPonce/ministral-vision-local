@@ -19,7 +19,13 @@ def create_ui(inference_engine):
 
     with gr.Blocks(title="Ministral Vision") as demo:
         with gr.Column(elem_classes=["container"]):
-            gr.Markdown("# 🧠 Ministral Vision")
+            gr.HTML("""
+                <div style="text-align: center; margin-bottom: 1rem;">
+                    <img src="https://avatars.githubusercontent.com/u/133149615?s=200&v=4" height="80" style="display: inline-block; margin: 0 10px;">
+                    <img src="https://avatars.githubusercontent.com/u/150920049?s=200&v=4" height="80" style="display: inline-block; margin: 0 10px;">
+                    <h1 style="color: #4f46e5; margin-top: 10px;">Ministral Vision</h1>
+                </div>
+            """)
             gr.Markdown("Upload an image and ask questions to leverage the reasoning capabilities of Ministral-3-8B.")
             
             with gr.Group():
